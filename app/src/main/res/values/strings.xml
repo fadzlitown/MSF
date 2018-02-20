@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PUTRA MSF</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_500">Server error</string>
+    <string name="unexpected_error">Unexpected Server</string>
+
+    <array name="student_dummy">
+        <item>All student has been evaluated</item>
+    </array>
+</resources>
